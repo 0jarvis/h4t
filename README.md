@@ -8,8 +8,8 @@ We'll categorise the problem in 2 parts:
 
 UI/UX problems
 It requires a lot of changes like:
-> Better responsive design for every screen size
-> Better Animation style for the Form
+- Better responsive design for every screen size
+- Better Animation style for the Form
 
 Backend Problems
 
