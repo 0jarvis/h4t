@@ -1,0 +1,39 @@
+Apple
+Banana
+50
+
+50
+
+Name: a
+Hostel: E
+Comment: 
+Total cost: 100.00
+03/02/2019
+
+
+Apple
+Grapes 
+50
+
+30
+
+Name: asdqwe123
+Hostel: G
+Comment: 
+Total cost: 80.00
+03/02/2019
+
+
+Apple
+Grapes 
+50
+
+30
+
+Name: asdqwe123
+Hostel: G
+Comment: 
+Total cost: 80.00
+03/02/2019
+
+

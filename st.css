@@ -1,0 +1,82 @@
+.topp{
+	font-size: 15pt;
+	text-shadow: rgba(0,0,255,1) -1px -2px 0.5em;
+	}
+
+.headerr	{
+	margin: auto;
+ 	width: 50%;
+  	border: 6px solid #66FF00;
+  	padding: 10px;
+  	background-color: #FF6600;
+	}
+
+.imagee{
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	width: 64%;
+}
+
+.whatt{
+	font-size: 25pt;
+	text-align: center;
+	font-weight: bold;
+	color: blue;
+}
+
+input[type=text], select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+input[type=tel], select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+input[type=submit] {
+  width: 100%;
+  background-color: #ff0000;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #66FF00;
+}
+
+div {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
+
+input[type=button], select {
+  width: 15%;
+  padding: 8px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  background-color: #949494
+}
+
+input[type=button]:hover {
+  background-color: #CEC4C4;
+}
